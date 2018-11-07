@@ -5,5 +5,5 @@ tags:
 - 后端
 ---
 
-![](../resources/Spring4.0/IOC.png)
-![](../resources/Spring4.0/AOP.png)
+![](Spring4.0/IOC.png)
+![](Spring4.0/AOP.png)

@@ -5,4 +5,4 @@ tags:
 - 后端
 ---
 
-![](../resources/django入门与实践/django入门与实践.png)
+![](django入门与实践/django入门与实践.png)
